@@ -1,0 +1,10 @@
+{
+	"name" : "Venkata Koganti",
+	"version" : "0.0.1",
+	"authors" : [
+		{ "first" : "KVS" },
+		{ "last" : "Krish" },
+		{ "email" : "venkatasreek@gmail.com" }
+	],
+  	"engine": "node > 0.4.1"
+}
